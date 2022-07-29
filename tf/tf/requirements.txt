@@ -46,7 +46,7 @@ pyarrow # used in pandas to export/import from parquet file format
 pydotplus==2.0.2 # Python interface to Graphviz's Dot language
 pyglet==1.4.4
 regex==2018.01.10 # is required by spacy
-scrapy==1.7.3
+scrapy==2.6.2
 simhash==1.9.0
 surt==0.3.1
 tables # managing hierarchical datasets (HDF5)
