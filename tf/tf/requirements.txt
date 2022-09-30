@@ -24,7 +24,7 @@ imageio==2.5.0
 internetarchive==1.8.5
 ipyvolume==0.5.2 # draw 3d in jupyter
 kaggle==1.5.6
-joblib==0.13.2 # lightweight pipelining (parallel computing and transparent disk-caching of functions and lazy re-evaluation)
+joblib==1.2.0 # lightweight pipelining (parallel computing and transparent disk-caching of functions and lazy re-evaluation)
 joypy==v0.2.1 # joy division like visualization in matplotlib
 jgraph==0.2.1 # An embeddable webGL graph visualization library.
 gensim==3.8.0 # unsupervised topic modeling and natural language processing
