@@ -40,7 +40,7 @@ numpy-quaternion # adds a quaternion dtype to NumPy
 osmnx==0.9 # Retrieve, construct, analyze, and visualize street networks from OpenStreetMap
 overpass==0.6.1 # overpass api to make db-like queries to open street map data
 pandas==0.25.1 #
-Pillow==6.1.0 # The friendly PIL fork (Python Imaging Library)
+Pillow==9.3.0 # The friendly PIL fork (Python Imaging Library)
 pip-check===2.5.2
 pyarrow # used in pandas to export/import from parquet file format
 pydotplus==2.0.2 # Python interface to Graphviz's Dot language
