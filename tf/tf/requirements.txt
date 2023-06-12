@@ -65,5 +65,5 @@ tenacity==5.1.1
 textblob==0.15.3 # provides a consistent API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, and more.
 # doesn't work on python3 :( and fails with error:
 # vaex==0.3.10 # Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second.
-transformers==2.4.1
+transformers==4.30.0
 wordcloud==1.5.0 # word cloud generator
